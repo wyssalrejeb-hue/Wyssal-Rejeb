@@ -1,0 +1,28 @@
+# Analysis of Women's Economic and Social Rights (1970–2023)
+
+## Project Overview
+This project analyzes the evolution of women's economic and social rights
+across regions using data from Our World in Data.
+
+## Data Source
+- Our World in Data (World Bank Gender Statistics, 2025)
+- Period: 1970–2023
+
+## Tools Used
+- Excel (data cleaning)
+- Power BI (data modeling & visualization)
+
+## Key Questions
+- How have women's rights evolved over time?
+- What regional disparities exist?
+
+## Key Insights
+- Europe and Africa show significant legislative progress after 1990
+- Pay equity laws remain uneven across regions
+
+## Dashboard
+![Dashboard](images/dashboard.png)
+
+## Files
+- Cleaned dataset
+- Power BI dashboard
